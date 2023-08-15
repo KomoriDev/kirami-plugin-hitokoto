@@ -9,7 +9,7 @@
 _✨ 有一句话能打动你的心 ✨_
 
 <a href="./LICENSE">
-    <img src="https://img.shields.io/github/license/owner/kirami-plugin-hitokoto.svg" alt="license">
+    <img src="https://img.shields.io/github/license/KomoriDev/kirami-plugin-hitokoto.svg" alt="license">
 </a>
 <a href="https://pypi.python.org/pypi/kirami-plugin-hitokoto">
     <img src="https://img.shields.io/pypi/v/kirami-plugin-hitokoto.svg" alt="pypi">
