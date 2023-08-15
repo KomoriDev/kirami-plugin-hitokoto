@@ -1,0 +1,21 @@
+[project]
+name = "kirami-plugin-hitokoto"
+version = "0.1.0"
+description = "总有一句话能打动你的心"
+authors = [
+    {name = "Komorebi", email = "mute231010@gmail.com"},
+]
+dependencies = [
+    "kiramibot>=0.0.0",
+]
+requires-python = ">=3.10"
+readme = "README.md"
+license = {text = "MIT"}
+
+[project.urls]
+Homepage = "https://github.com/KomoriDev/kirami-plugin-hitokoto"
+Repository = "https://github.com/KomoriDev/kirami-plugin-hitokoto"
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"

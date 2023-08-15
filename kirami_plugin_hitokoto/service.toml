@@ -1,0 +1,6 @@
+[plugin]
+name = '一言'
+summary = '总有一句话能打动你的心 '
+version = '0.1.0'
+author = 'Komorebi'
+usage = '发送"一言"'
